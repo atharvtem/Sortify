@@ -54,13 +54,13 @@ Once the code is run the output folder looks something like this:
 
 ![](images/output%20folder.PNG)
 
-Harshit Folder:
+Atharv Folder:
 
-![](images/harshit.PNG)
+![](images/atharv.jpeg)
 
-Shreya Folder:
+Urjit Folder:
 
-![](images/shreya.PNG)
+![](images/urjit.jpeg)
 
 Group Folder:
 
@@ -71,25 +71,3 @@ Unknown Folder:
 ![](images/unknown.PNG)
 
 
-## License
-
-This project is licensed under the MIT License.
-
-
-## Acknowledgments
-
-* [Davisking](https://github.com/davisking) for an amazing github repo on dlib
-* [Ageitgey](https://github.com/ageitgey) for the face-recognition api package
-
-
-## References
-  
-  1. [Siamese Network Paper](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
-  
-  2. [Signature Verification using Siamese Networks](http://papers.nips.cc/paper/769-signature-verification-using-a-siamese-time-delay-neural-network.pdf)
-  
-  3. Images:
-      
-      * https://www.researchgate.net/figure/Siamese-network-for-embedding-the-feature-maps-into-a-constant-vector_fig2_328376369
-      * https://www.researchgate.net/figure/The-Triplet-loss-in-cosine-similarity_fig3_316736728
-      * https://omoindrot.github.io/triplet-loss
