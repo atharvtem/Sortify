@@ -1,4 +1,4 @@
-# Face-Recognition-based-Image-Separator
+# Sortify -- Face-Recognition-based-Image-Sorter
 This is a small fun project which uses face recognition techniques to separate images from a large dataset into images of different people according to faces.
 
 This repo contains all the code for my blog post on [medium](https://medium.com/analytics-vidhya/face-recognition-based-image-separator-408681f2360d)
